@@ -14,7 +14,7 @@ const char simPIN[]   = "";
 
 // Your phone number to send SMS: + (plus sign) and country code, for Portugal +351, followed by phone number
 // SMS_TARGET Example for Portugal +351XXXXXXXXX
-#define SMS_TARGET  "+16692045032"
+#define SMS_TARGET  "+14085901727"
 
 // Configure TinyGSM library
 #define TINY_GSM_MODEM_SIM800      // Modem is SIM800
