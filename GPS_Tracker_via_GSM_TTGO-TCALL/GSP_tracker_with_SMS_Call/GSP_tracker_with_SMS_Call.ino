@@ -160,7 +160,7 @@ void checkGPS()
 {
   if (gps.charsProcessed() < 10)
   {
-    //Serial.println(F("No GPS detected: check wiring."));
+    Serial.println(F("No GPS detected: check wiring."));
     Blynk.virtualWrite(V4, "GPS ERROR");
   }
 }
