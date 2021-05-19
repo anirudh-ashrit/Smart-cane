@@ -1,1 +1,0 @@
-https://randomnerdtutorials.com/getting-started-with-esp32/
